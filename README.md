@@ -44,5 +44,9 @@ Systems Engineer with 15+ years of tech experience. I blend robust Full Stack de
 
 ## 📬 ¡Conectemos! / Let's Connect!
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/roberto-navarrete-tech-lead)
-[![Email](https://shields.io)](mailto:roberto.navarretem@gmail.com)
+<a href="https://linkedin.com" target="_blank">
+  LinkedIn
+</a>
+<a href="mailto:<i class="fa-solid fa-envelope"></i>">
+  Email
+</a>
